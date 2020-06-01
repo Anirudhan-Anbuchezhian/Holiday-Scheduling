@@ -6,7 +6,7 @@ using System.Web.Services;
 using MySql.Data.MySqlClient;
 using System.Data;
 
-
+//
 namespace compound_client_webservices
 {
     /// <summary>
